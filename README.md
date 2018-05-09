@@ -6,7 +6,7 @@
 1. Identify how to create a pull request from one fork to another
 2. Identify how to add commits to an existing pull request
 
-## Overview:
+## Overview: :)
 
 The concept of a pull request is unique to Github. It is a request for the
 owner of a receiving repository to take your changes, that you made on your
